@@ -1,6 +1,15 @@
-### Hi there 🌸
+# Hi there! 🌸
+
+### Something about me..
+- 🎓 Bachelor degree in Computer Science @UniPD </li>
+- 📚 Currently studying for the master degree in Artificial Intelligence @UniPD </li>
+- 👩🏻‍💻 Currently working as full-stack dev @zero12 s.r.l. </li>
+- 💬 Languages: Italian, English (hopefully more to come)
+- ✈️ Loves travelling
+- 📫 faccioli.nicla@gmail.com
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikura3&layout=compact)](https://github.com/Nikura3/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
