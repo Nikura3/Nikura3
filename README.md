@@ -1,5 +1,10 @@
 ### Hi there 🌸
-<iframe src="https://giphy.com/embed/JTIwc0xzSWufFFp2bE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-cute-baby-bt21baby-JTIwc0xzSWufFFp2bE">via GIPHY</a></p>
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/LINEFRIENDS-cute-baby-bt21baby-JTIwc0xzSWufFFp2bE" width="100"/>
+</div>
+
+
 <!--
 
 Here are some ideas to get you started:
