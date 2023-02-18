@@ -1,7 +1,5 @@
 ### Hi there 🌸
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikura3)](https://github.com/Nikura3/github-readme-stats)
-
 <!--
 
 Here are some ideas to get you started:
