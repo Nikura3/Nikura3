@@ -1,9 +1,8 @@
 ### Hi there 🌸
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/LINEFRIENDS-cute-baby-bt21baby-JTIwc0xzSWufFFp2bE" width="100"/>
+  <img src="https://giphy.com/embed/JTIwc0xzSWufFFp2bE" width="100"/>
 </div>
-
 
 <!--
 
