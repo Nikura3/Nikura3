@@ -5,7 +5,7 @@
 - 📚 Currently studying for the master degree in Artificial Intelligence @UniPD </li>
 - 👩🏻‍💻 Currently working as full-stack dev @zero12 s.r.l. </li>
 - 💬 Languages: Italian, English (hopefully more to come)
-- ✈️ Loves travelling
+- ✈️ Love travelling
 - 📫 faccioli.nicla@gmail.com
 
 
