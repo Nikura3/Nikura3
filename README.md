@@ -3,7 +3,7 @@
 ### Something about me..
 - 🎓 Bachelor degree in Computer Science @UniPD </li>
 - 📚 Currently studying for the master degree in Artificial Intelligence @UniPD </li>
-- 👩🏻‍💻 Currently working as full-stack dev @zero12 s.r.l. </li>
+- 👩🏻‍💻 Currently working as full-stack dev @Vargroup </li>
 - 💬 Languages: Italian, English (hopefully more to come)
 - ✈️ Love travelling
 - 📫 faccioli.nicla@gmail.com
